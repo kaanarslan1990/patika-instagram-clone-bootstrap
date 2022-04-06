@@ -3,4 +3,4 @@
 # Bootstrap Instagram clone;
 
 
-![BelekomaHome](./assets/Capture.PNG)
+![Instagram-clone](./assets/Capture.PNG)
